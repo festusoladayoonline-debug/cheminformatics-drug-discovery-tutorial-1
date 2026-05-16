@@ -24,7 +24,8 @@ pip install pandas matplotlib seaborn py3Dmol scikit-learn ipywidgets
 
 ## Quick Start
 ```bash
-git clone https://github.com/YOUR_USERNAME/cheminformatics-drug-discovery
+git clone https://github.com/festusoladayoonline-debug
+/cheminformatics-drug-discovery
 cd cheminformatics-drug-discovery
 jupyter notebook cheminformatics_drug_discovery.ipynb
 ```
