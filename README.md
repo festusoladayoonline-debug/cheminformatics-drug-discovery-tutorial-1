@@ -33,7 +33,7 @@ jupyter notebook cheminformatics_drug_discovery.ipynb
 ## Citation
 If you use this tutorial, please cite:
 > Anebi J. & Ogungbemiro F. (2026). Cheminformatics for Drug Discovery.
-> Zenodo. https://doi.org/YOUR_DOI_HERE   ← fill after Step 2
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20233636.svg)](https://doi.org/10.5281/zenodo.20233636)
 
 ## References
 1. Lipinski et al. (1997). Adv. Drug Deliv. Rev., 23, 3–25
