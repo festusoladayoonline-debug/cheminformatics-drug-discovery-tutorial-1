@@ -1,0 +1,18 @@
+name: cheminformatics_drug_discovery
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - rdkit>=2023.03.1
+  - pandas>=1.5.3
+  - numpy>=1.26.4,<2.0
+  - matplotlib>=3.5.0
+  - seaborn>=0.12.0
+  - scikit-learn>=1.0.0
+  - jupyter=1.0.0
+  - ipykernel>=6.29.4
+  - ipywidgets>=8.0
+  - pip
+  - pip:
+      - py3Dmol>=2.0
